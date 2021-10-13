@@ -1,5 +1,5 @@
 # FizzBuzz Utmaningen
-FizzBuzz är ett klassiskt första programmerings problem som löser när man lärs programmering. Problemet går ut på 
+FizzBuzz är ett klassiskt första programmerings problem som man löser när man lär sig programmering. Problemet går ut på 
 att lära sig att ta emot in-data, skriva ut data, använda sig av if-else satser och loopar. Man kan göra detta i 
 valfritt 
 programmeringsspråk. Om ni söker detaljer för att skicka in för 
